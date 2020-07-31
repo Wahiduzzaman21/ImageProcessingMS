@@ -12,3 +12,4 @@ sdist
 develop-eggs
 .installed.cfg
 .ipynb_checkpoints
+cifar-10-batches-py
